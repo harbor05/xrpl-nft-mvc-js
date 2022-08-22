@@ -1,6 +1,6 @@
 # XRPL-NFT with MVC-Vanilla-js
 
-XRPL의 NFT-Devnet에서 NFT 민팅하는 예제를 MVC 패턴으로 바닐라 자바스크립트를 활용하여 구현
+XRPL의 NFT-Devnet에서 NFT 민팅 예제를 MVC 패턴으로 바닐라 자바스크립트를 활용하여 구현
 
 **Preparation**
 
