@@ -1,5 +1,5 @@
 /**
- * @class Account
+ * @class Model - Account
  *
  * @param account
  * @param secret
@@ -9,4 +9,14 @@ class Account {
     this.account = account;
     this.secret = secret;
   }
+
+  /**
+   * Get the Preferred Network
+   */
+  getNet() {}
+
+  /**
+   * Get Account
+   */
+  getAccount() {}
 }
