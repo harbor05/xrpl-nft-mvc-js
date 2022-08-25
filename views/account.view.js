@@ -107,12 +107,6 @@ class AccountView {
       type: "button",
       value: "",
     });
-
-    this.createInput({
-      id: "standbyTransferFeeField",
-      type: "button",
-      value: "",
-    });
     /* End NFToken */
   }
 
