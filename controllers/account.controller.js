@@ -10,7 +10,5 @@ class AccountController {
   constructor(accountService, accountView) {
     this.accountService = accountService;
     this.accountView = accountView;
-    this.xrpl = xrpl;
-    console.log("AccountController Call XRPL", this.xrpl);
   }
 }
